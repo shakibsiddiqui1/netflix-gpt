@@ -11,7 +11,7 @@ export const validate=(name,email,password,isSignIn)=>{
     {
         if(!isNameValid)  output[0]="Name is not valid";
         if (!isEmailValid) output[1]="Email ID is not valid";
-        if (!isPasswordValid) output[2]="Password should be combination of Capital letter, Small letter, Special character and Number.";
+        if (!isPasswordValid) output[2]="Password should consist minimum 8 character and combination of Capital letter, Small letter, Special character and Number.";
     }
     return output;
 }
