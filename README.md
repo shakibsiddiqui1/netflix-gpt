@@ -1,7 +1,7 @@
 # Netflix GPT
 Movies recommendation with AI.<br/><br/>
 ## Live Demo
-**Click URL:** [Netflix GPT](https://netflix-gpt.netlify.app)<br/><br/>
+**Click URL:** [Netflix GPT](https://video-watcher.netlify.app/)<br/><br/>
 Note : [First Signup to explore app]<br/><br/>
 ## Used Library, Framework and API
 - ***React JS*** <br/>
